@@ -1,2 +1,2 @@
 worker: python server.py
-web: npm run start
+web: node client.js
